@@ -17,7 +17,6 @@ Focus: applying **Self-Sovereign Identity (SSI)** to KYC/AML in FinTech; evaluat
 
 ## Contents
 - `report/COMP1830_Blockchain_for_FinTech_Report.pdf` — full write-up with references.
-- `labs/` — (placeholder) selected lab exercises: smart-contract snippets, wallet/tx steps, or SDK scripts.
 - `docs/` — text-only architecture notes, ADRs (Architecture Decision Records).
 
 ## Topics (GitHub “About”)
